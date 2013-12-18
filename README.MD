@@ -1,1 +1,0 @@
-Based on Brian Ford's [Building Huuuuuge Apps with AngularJS](http://briantford.com/blog/huuuuuge-angular-apps.html) best practices.
